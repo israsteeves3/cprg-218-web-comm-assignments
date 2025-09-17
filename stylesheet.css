@@ -1,3 +1,21 @@
 header{
-    background-color: blue;
+    background-color: rgb(210, 201, 149);
+}
+body{
+    background-color:rgb(100, 205, 100);
+}
+footer{
+    background-color: rgb(210, 201, 149);
+}
+#P1{
+    background-color: aqua;
+}
+#P2{
+    background-color:hotpink
+}
+#P3{
+    background-color: darkmagenta
+}
+.sidebar-info{
+    background-color: rgb(118, 67, 31);
 }
