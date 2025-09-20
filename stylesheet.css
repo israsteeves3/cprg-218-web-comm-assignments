@@ -11,3 +11,19 @@ footer{
 .sidebar-info{
     background-color: rgb(118, 67, 31);
 }
+
+.float-figure{
+    overflow: hidden;
+    margin-bottom: 40px;
+}
+
+.float-figure img {
+    float: left;
+    margin-right: 20px;
+    width: 300px;
+    height: auto;
+}
+
+.float-figure figcaption {
+    overflow: hidden;
+}
