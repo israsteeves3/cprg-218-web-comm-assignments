@@ -43,6 +43,17 @@ footer{
     margin-right: 30px;
 }
 
+.fun-facts img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+}
+
+.westsunset{
+    text-align: center;
+}
+
 main{
     margin-left: 500px;
     background-color: white;
@@ -54,7 +65,7 @@ main{
     color: white;
     background-color: #781a16;
 }
-button{
-    color: white;
-    background-color: #781a16;
+
+a{
+    color: #781a16;
 }
