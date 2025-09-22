@@ -8,22 +8,34 @@ footer{
     background-color: rgb(210, 201, 149);
 }
 
-.sidebar-info{
-    background-color: rgb(118, 67, 31);
-}
-
 .float-figure{
+    width: 1200px;
+    margin: 40px auto;
     overflow: hidden;
-    margin-bottom: 40px;
 }
 
 .float-figure img {
     float: left;
-    margin-right: 20px;
     width: 300px;
     height: auto;
+    margin-right: 20px;
+    display: block;
 }
 
 .float-figure figcaption {
     overflow: hidden;
+    max-width: 460px;
+}
+
+.fun-facts{
+    float: left;
+    width: 420px;
+    padding: 20px;
+    background-color: grey;
+    border: 5px solid #962b2b;
+    margin-right: 30px;
+}
+
+main{
+    margin-left: 500px;
 }
