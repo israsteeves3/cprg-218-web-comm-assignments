@@ -1,11 +1,16 @@
 header{
-    background-color: rgb(210, 201, 149);
+    text-align: center;
+    padding: 1px;
+    color: white;
+    background-color: #781a16
 }
+
 body{
-    background-color:rgb(49, 154, 49);
+    background-color:white;
 }
 footer{
-    background-color: rgb(210, 201, 149);
+    color: white;
+    background-color: #781a16;
 }
 
 .float-figure{
@@ -30,12 +35,26 @@ footer{
 .fun-facts{
     float: left;
     width: 420px;
+    height: 1400px;
     padding: 20px;
-    background-color: grey;
-    border: 5px solid #962b2b;
+    background-color: #6c6d70;
+    border-right: 5px solid #781a16;
+    border-left: 5px solid #781a16;
     margin-right: 30px;
 }
 
 main{
     margin-left: 500px;
+    background-color: white;
+}
+
+.paragraph-title{
+    margin: auto;
+    text-align: center;
+    color: white;
+    background-color: #781a16;
+}
+button{
+    color: white;
+    background-color: #781a16;
 }
