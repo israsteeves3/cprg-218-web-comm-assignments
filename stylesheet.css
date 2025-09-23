@@ -50,6 +50,9 @@ footer{
     margin-left: auto;
     margin-right: auto;
     height: auto;
+    border: 5px solid #781a16;
+    margin-top: 15px;
+    margin-bottom: 10px;
 }
 
 .sunset{
